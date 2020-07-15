@@ -1,5 +1,5 @@
-# Recyclabox - API Endpoint
-Flask application that creates an endpoint for management of products in shop
+# Recyclabox - Shop API
+Flask application that creates an endpoint for management of products in a shop
 
 ## Requirements
 - Python 3.8
