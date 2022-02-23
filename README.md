@@ -1,4 +1,4 @@
-# Recyclabox - Shop API
+# Shop API
 Flask application that creates an endpoint for management of products in a shop
 
 ## Requirements
